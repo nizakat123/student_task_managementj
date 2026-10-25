@@ -1,0 +1,36 @@
+{
+  "name": "student-sprint-cloud-os",
+  "version": "1.0.0",
+  "description": "Cloud-Based Student Task Manager & Pomodoro Sprint Engine with Supabase Realtime CDC (Cloud & Distributed Computing Mini-Project)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "supabase",
+    "postgresql",
+    "realtime-cdc",
+    "distributed-systems",
+    "cloud-computing",
+    "pomodoro",
+    "kanban",
+    "task-manager"
+  ],
+  "author": "Nizakat Ali",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^0.475.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.1.0"
+  }
+}
